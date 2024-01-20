@@ -24,9 +24,9 @@ const SolarSystem: React.FC<SolarSystemProps> = () => {
             <Planet
               key={projectName}
               color={projectDetails.color}
-              size={40 + index * 10}
+              size={40 + index * 2}
               rotationSpeed={getRandomSpeed()}
-              orbitRadius={150 + index * 50}
+              orbitRadius={100 + index * 80}
               onPlanetClick={() => handlePlanetClick(projectName)}
             />
           ))}
