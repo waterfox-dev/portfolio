@@ -1,0 +1,27 @@
+{
+    "Instant Weather" : {
+        "description" : "A Javascript project, connected to a weather API to give weather informations from France and the world.",
+        "link" : "https://github.com/waterfox-dev/InstantWeather", 
+        "language" : ["js", "html", "css"],  
+        "color" : "#f1c40f"
+    },
+    "Pti'Cuisto" : {
+        "description" : "A Javascript project, connected to a weather API to give weather informations from France and the world.",
+        "link" : "https://github.com/waterfox-dev/InstantWeather", 
+        "language" : ["js", "html", "css"], 
+        "color": "#1e90ff"
+    }, 
+    "LilyLearn" : {
+        "description" : "A Javascript project, connected to a weather API to give weather informations from France and the world.",
+        "link" : "https://github.com/waterfox-dev/InstantWeather", 
+        "language" : ["js", "html", "css"],
+        "color": "#1C5C6D"
+    }, 
+    "Nautilus" : {
+        "description" : "A Javascript project, connected to a weather API to give weather informations from France and the world.",
+        "link" : "https://github.com/waterfox-dev/InstantWeather", 
+        "language" : ["js", "html", "css"],
+        "color": "#1660aa"
+
+    }
+}
