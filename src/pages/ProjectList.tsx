@@ -6,9 +6,8 @@ import projectData from '../data/projects.json';
 
 const ProjectList: React.FC = () => {
     return (
-        <div className='bg-gray-900'>
-            <h1>Portfolio</h1>
-            <div className="grid grid-cols-3 gap-4 mt-10 ml-40 mr-40">
+        <div className='bg-gray-900' id="projects">
+            <div className="grid grid-cols-3 gap-4  ml-40 mr-40">
             {Object.entries(projectData).map(([projectName, projectDetails]) => (
                 <Project
                     key={projectName}
@@ -20,7 +19,6 @@ const ProjectList: React.FC = () => {
                 />
             ))}
             </div>
-
         </div>
     )
 }
