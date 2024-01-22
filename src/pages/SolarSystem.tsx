@@ -53,7 +53,7 @@ const SolarSystem: React.FC<SolarSystemProps> = () => {
 };
 
 const getRandomSpeed = (): number => {
-    return (Math.random() / 5) + 0.1;
+    return (Math.random() / 100) + 0.07; 
 };
 
 export default SolarSystem;
