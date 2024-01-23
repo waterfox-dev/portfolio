@@ -34,7 +34,7 @@ const SolarSystem: React.FC<SolarSystemProps> = () => {
             </div>
             <div className="col-span-1 bg-gradient-to-t bg-gray-900 border-gray-800">
                 <div>
-                    <p className="text-3xl text-gray-100 text-center font-bold font-mono mt-16">My Portfolio.</p>
+                    <p className="text-6xl text-gray-100 text-center font-bold font-mono mt-16">My Portfolio.</p>
                     <div className="info-box mt-16 mr-16 text-gray-200">
                         <p className='text-center text-xl mb-16'>
                             Hello there ! I'm Clément Baratin, IT Student and passionate developer. I'm currently studying at the University of Technology of Caen. Click on a planet to discover one of my project.
